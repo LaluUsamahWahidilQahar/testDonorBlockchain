@@ -1,0 +1,17 @@
+{
+    "name" : "project-blockchain",
+    "version" : "1.0.0",
+    "description" : "Aplikasi Donor Darah sederhana menggunakan Ethereum Blockchain",
+    "main" : "index.js",
+    "scripts": {
+        "dev" : "lite-server",
+        "test" : "echo \"Error : no test specified\" && exit 1"
+    },
+    "author": "Eko Prasetyo",
+    "license": "ISC",
+    "dependencies": {
+        "lite-server" : "^2.6.1",
+        "solc": "^0.6.0",
+        "truffle-contract" : "^4.0.31"
+    }
+}
